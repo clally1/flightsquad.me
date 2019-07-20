@@ -27,7 +27,7 @@ class Home extends Component {
                 <Helmet>
                     <html lang="en" />
                     <title>Nomios</title>
-                    <meta name="description" content="Nomios is a Identity Wallet based on the Identity Manager specification" />
+                    <meta name="description" content="Flight Squad is a dope platform" />
                     <meta name="keywords" content="nomios, identity, idm, identity, identity-manager, decentralized, ipfs, ipid, did, dids, credentials, verifiable, signatures, self-sovereign, moxy, protocol-labs" />
                 </Helmet>
 
