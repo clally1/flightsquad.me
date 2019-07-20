@@ -39,7 +39,7 @@ class Header extends Component {
                 className={ classNames(styles.header, small && styles.small, className) }
                 contentClassName={ styles.headerContent }>
                 <div className={ styles.anchorsContainer }>
-                    <AnchorLink href="#why" offset={ anchorOffset } changeHash>Benefits</AnchorLink>
+                    <AnchorLink href="#why" offset={ anchorOffset } changeHash>Beneflights</AnchorLink>
                     <AnchorLink href="#concept" offset={ anchorOffset } changeHash>Concept</AnchorLink>
                     <AnchorLink href="#roadmap" offset={ anchorOffset - 2 } changeHash>Roadmap</AnchorLink>
                 </div>
