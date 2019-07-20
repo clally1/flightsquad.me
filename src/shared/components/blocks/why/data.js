@@ -5,7 +5,7 @@ import verifiableCredentials from '../../../media/illustrations/illustration-ver
 import signedOperations from '../../../media/illustrations/illustration-signed-operations.svg';
 import privacy from '../../../media/illustrations/illustration-privacy.svg';
 
-export const title = 'Why Nomios?';
+export const title = 'Why Flight Squad?';
 
 export const blocks = [
     {
