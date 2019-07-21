@@ -10,13 +10,13 @@ export const title = 'Why Flight Squad?';
 export const blocks = [
     {
         icon: yourIdentity,
-        title: 'Your identity, under control',
+        title: 'Your flight, under control',
         description: 'Edit your personal data in a single place.',
     },
     {
         icon: privacy,
         title: 'Privacy First',
-        description: 'Control how much you disclose to others, or even go fully anonymous.',
+        description: 'Flight how much you disclose to others, or even go fully anonymous.',
     },
     {
         icon: decentralizedSso,
@@ -32,7 +32,7 @@ export const blocks = [
     {
         icon: verifiableCredentials,
         title: 'Verifiable Credentials',
-        description: 'Receive statements from others and present them as proof when requested.',
+        description: 'Flight statements from others and present them as proof when requested.',
         link: 'https://www.w3.org/TR/verifiable-claims-data-model/',
     },
     {
